@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahaElomey" alt="MahaElomey" /></a> </p>
 
 
-- 🔭 I’m currently [training at the Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home)
+- 🔭 I’m currently training at the [Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home)
 
 - 🌱 I’m currently learning **DevOps | Cloud computing | Backend DEV**
 
