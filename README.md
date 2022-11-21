@@ -6,6 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahaElomey" alt="MahaElomey" /></a> </p>
 
+
+- 🔭 I’m currently [training at the Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home)
+
+- 🌱 I’m currently learning **DevOps | Cloud computing | Backend DEV**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maha-elkomey-411383236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maha elkomey" height="30" width="40" /></a>
