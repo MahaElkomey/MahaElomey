@@ -6,9 +6,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahaElomey&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaElomey&layout=compact&theme=radica)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaElomey&layout=compact&theme=radica#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaElomey&langs_count=8&theme=radica)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaElomey&langs_count=8&theme=radica#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
