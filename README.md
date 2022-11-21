@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahaElomey&show_icons=true&theme=codeSTACKr)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MahaElomey&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MahaElomey&repo=github-readme-stats&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaElomey&layout=radical)](https://github.com/anuraghazra/github-readme-stats)
