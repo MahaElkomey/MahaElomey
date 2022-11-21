@@ -9,6 +9,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaElomey&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaElomey&langs_count=8#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahaElomey&langs_count=10#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
